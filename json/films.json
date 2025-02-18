@@ -845,6 +845,42 @@
             "length": "2h 4m",
             "director": "Steven Spielberg",
             "synopsis": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+        },
+        {
+            "id": "91", 
+            "poster": "https://pics.filmaffinity.com/El_manantial-181307450-large.jpg",
+            "title": "The Fountainhead",
+            "year": "1949",
+            "length": "1h 54m",
+            "director": "King Vidor",
+            "synopsis": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards."
+        },
+        {
+            "id": "92", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BM2FjZTU2ZTYtNTgzNi00MTlmLWE3N2UtZGRiYmE5ZDVmMmVlXkEyXkFqcGc@._V1_.jpg",
+            "title": "Catch me if you can",
+            "year": "2002",
+            "length": "2h 21m",
+            "director": "Steven Spielberg",
+            "synopsis": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit."
+        },
+        {
+            "id": "93", 
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_FMjpg_UX1000_.jpg",
+            "title": "No country for old men",
+            "year": "2007",
+            "length": "2h 2m",
+            "director": "Joel Coen and Ethan Coen",
+            "synopsis": "Violence and mayhem ensue after a hunter stumbles upon the aftermath of a drug deal gone wrong and over two million dollars in cash near the Rio Grande."
+        },
+        {
+            "id": "94", 
+            "poster": "https://m.media-amazon.com/images/I/91zbqu1gprL._UF1000,1000_QL80_.jpg",
+            "title": "The Ballad of Buster Scruggs",
+            "year": "2018",
+            "length": "2h 12m",
+            "director": "Joel Coen and Ethan Coen",
+            "synopsis": "Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train, and a perverse pair of bounty hunters."
         }
     ]
 
